@@ -1,0 +1,16 @@
+{
+  "name": "fediverse-followers-analyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "download.js",
+  "type": "module",
+  "scripts": {
+    "download": "node download.js",
+    "start": "node analyze.js"
+  },
+  "author": "Stefan Bohacek",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
