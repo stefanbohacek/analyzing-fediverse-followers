@@ -1,6 +1,6 @@
 # Analyzing fediverse followers (with Mastodon API)
 
-This is a collection of quick and dirty scripts I used in my article where I analyzed followers of my [creative bots](https://stefans-creative-bots.glitch.me/).
+This is a collection of quick and dirty scripts I used in [my article where I analyzed followers](https://stefanbohacek.com/blog/analyzing-fediverse-followers/) of my [creative bots](https://stefans-creative-bots.glitch.me/).
 
 
 ## How to use
